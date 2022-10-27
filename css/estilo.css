@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.resaltar {
+    background-color: yellow;
+}
+
+.error {
+    background-color: lightcoral;
+    border-color: red;
+}
+.exito{
+    background-color: green;
+}
+.card{
+    width: 700px;
+    height: 450px;
+    position: absolute;
+    inset: 0;
+    margin:auto;
+}
